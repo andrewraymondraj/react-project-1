@@ -119,7 +119,7 @@ const background=()=>{
             </div>
             
             <div className={props.value?'scrolllight':'scrolldark'}>
-              <FontAwesomeIcon icon={faArrowLeft} />
+              {/* <FontAwesomeIcon icon={faArrowLeft} /> */}
                   <h4>HTML</h4>
                   <h4> CSS</h4>
                   <h4>JAVASCRIPT</h4>
